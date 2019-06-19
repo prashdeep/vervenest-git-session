@@ -4,9 +4,13 @@ hello
 hi
 
 sefjos;j
+<<<<<<< HEAD
 fjwesojd
 ofjedsf
 
 
 
 dfsm;lmcl;
+=======
+fjwesojd
+>>>>>>> new
