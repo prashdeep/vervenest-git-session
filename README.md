@@ -36,21 +36,14 @@ C********* Accepted..
 
 
 DineshMouli
+git add .
 
 
 # vervenest-git-session
-
-1. Ananth
-
-namitha
-
-
-C Accepted
-
-
 gokul
-
 namitha
 
 arun
+
+# vervenest-git-session
 
