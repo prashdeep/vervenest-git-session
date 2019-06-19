@@ -1,0 +1,13 @@
+produts:[ 
+    { id:1,
+      name:"apple"
+    }
+    {
+        id:2,
+        name:"i-phone"
+    }
+    {
+        id:3,
+        name:"lenovo"
+    }
+];
