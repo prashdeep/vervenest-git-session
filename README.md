@@ -1,17 +1,24 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-hieeee
-=======
 
+hieeee
+
+
+
+hieeee
 # vervenest-git-session
 
-
-
-
+DineshMouli
+srilekha
 
 
 C********** Accepted
 
+1. Ananth
+
+namitha
+
+hieeee
+
+# vervenest-git-session
 
 
 DineshMouli
@@ -29,14 +36,16 @@ C Accepted..
 
 
 #Arun pandiyan
-
 gokul
 
 namitha
 
 arun
+C********** Accepted
+sri
+ Accepted
+ Accepted
 
-C********* Accepted..
 
 
 
@@ -44,7 +53,16 @@ DineshMouli
 git add .
 
 
+1. Ananth
+
+namitha
+
+
+C Accepted
+
+
 # vervenest-git-session
+
 gokul
 
 namitha
@@ -58,6 +76,12 @@ C********** Accepted
  Accepted
  Accepted
 
-=======
+
+
 Yesterday I changed name oft my #WiFi to "Hack if you can". Today I found it named "challenge accepted" :-)
->>>>>>> a429ba7ca0028bbdfea6dd342869b12d7d18d2ef
+
+
+Yesterday I changed name oft my #WiFi to "Hack if you can". Today I found it named "challenge accepted" 
+
+sri
+
