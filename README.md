@@ -1,1 +1,2 @@
-C********** Accepted
+ Accepted
+ Accepted
